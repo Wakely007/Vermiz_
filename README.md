@@ -8,13 +8,13 @@
 
 ## 🚀 Projetos em destaque
 
-🔹 [D4C Toolset 3.0](https://github.com/vermiz_/D4C-Toolset)  
+🔹 [D4C Toolset 3.0] 
 Kit de automação OSINT + Discord + TOR + dorking + sistema de monitoramento
 
-🔹 [Bot de Monitoramento](https://github.com/vermiz_/monitor-bot)  
+🔹 [Bot de Monitoramento]  
 Script que coleta dados de hardware e envia por webhook para o Discord
 
-🔹 [MiniGame JoJo - Godot](https://github.com/vermiz_/jojo-minigame)  
+🔹 [MiniGame JoJo - Godot]  
 Protótipo de combate inspirado em JoJo, feito na Godot Engine
 
 ---
@@ -28,5 +28,5 @@ Protótipo de combate inspirado em JoJo, feito na Godot Engine
 
 ---
 
-📬 **Contato:** vermiz@protonmail.com  
+📬 **Contato:** verrmizz@gmail.com  
 💀 Sempre em modo stealth.
